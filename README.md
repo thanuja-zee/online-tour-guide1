@@ -2,7 +2,7 @@ TourMate( online tour guide )
 
 
 Nilusha - Payment (as user)         ,
-Sewmini - manage feedback (as admin)       ,   
+Sewmini - manage tour guide schedule  (as admin)       ,   
 Dilanka - Manage Booking (as manager)         ,   
 Isuri - manage tour guide (as manager)    ,     
 
